@@ -1,5 +1,4 @@
 # Research_work
-# Research_work
 In this project, it selects relevant text features using Evolutionary Algorithm, and classifies the fake reviews from genuine reviews.
 This project can be seen by simply opening in Google Colab.
 
