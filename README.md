@@ -1,6 +1,5 @@
 # Research_work
 In this project, it selects relevant text features using Evolutionary Algorithm, and classifies the fake reviews from genuine reviews.
-This project can be seen by simply opening in Google Colab.
 
 Labelled dataset is taken from Kaggle, consists of 40000 plus text reviews and from different 10 categories of product domains to prove diversity of model.
 Dataset link is available: https://www.kaggle.com/datasets/mexwell/fake-reviews-dataset
